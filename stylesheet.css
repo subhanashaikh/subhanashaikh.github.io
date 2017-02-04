@@ -1,0 +1,104 @@
+#plantatree {
+    position: absolute;
+    font-size: 30px;
+    left: 10px;
+    font-family: 'Gloria Hallelujah', cursive;
+    top: -45px;
+    z-index: 100;
+}
+
+#sky {
+    background-color: turquoise;
+    width: 100%;
+    height: 85%;
+    position: absolute;
+    margin: auto;
+}
+
+#grass {
+    background-color: greenyellow;
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+body {
+    margin: 0em;
+    height: 100%;
+    width: 100%;
+}
+
+#F1 {
+    float: left;
+    height: 25px;
+    width: 25px;
+}
+
+#F2 {
+    float: right;
+    size: 25%;
+}
+
+.flower {
+    width: 150px;
+    height: auto;
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+.flower2 {
+    width: 150px;
+    height: auto;
+    margin-top: -150px;
+    margin-right: 50px;
+}
+
+.tree {
+    position: absolute;
+    left: 50%;
+    margin-left: -479px;
+}
+
+#treeAndCover {
+    position: relative;
+}
+
+#cover {
+    background-color: turquoise;
+    position: absolute;
+    height: 692px;
+    width: 50%;
+    z-index: 5;
+    top: 10px;
+    left: 25%;
+}
+
+button{
+    height:50px; 
+    width:200px; 
+    margin: -100px;
+    position:relative;
+    top:50%; 
+    left:50%;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 150%;
+
+}
+
+#para{
+    float: left;
+    height: 500px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 25px;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#sun{
+    float: right;
+    height: 25%;
+    width: auto;
+}
